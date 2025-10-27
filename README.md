@@ -12,7 +12,8 @@
 ## Что нужно для работы бота?  
 1. Установка Python и библиотек
 ```pip install -r requirements.txt```
-2. Настройка .env
+2. Зарегистироваться на [сайте](https://пополнистим.рф/)
+3. Настройка .env
 ```
 FUNPAY_AUTH_TOKEN=golden_key
 STEAM_API_USER=STEAM_API_USER
